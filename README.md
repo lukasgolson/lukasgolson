@@ -4,7 +4,7 @@ Hello there! I'm Lukas, a PhD student at the University of British Columbia with
 
 # Academic Focus
 
-I'm pursuing a Master of Science in Forestry, specializing in the health / vigour of sugar maples (_Acer saccharum_). My research uses intracanopy drone videography and photogrammetry to study these majestic trees.
+I'm pursuing a PhD in Forestry, specializing in the health / vigour of sugar maples (_Acer saccharum_). My research uses intra-canopy drone videography and photogrammetry to study these majestic trees.
 
 ---
 
