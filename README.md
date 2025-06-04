@@ -1,6 +1,6 @@
 ## About Me
 
-Hello there! I'm Lukas, a Master's student at the University of British Columbia with a deep-seated curiosity for a myriad of subjects. My academic and professional pursuits span remote sensing, computer vision, game development, GIS, and integrating IoT into environmental sciences. When not engaged in my studies or coding, you can find me backpacking through nature, exploring the vast world of music, or on a quest for new knowledge.
+Hello there! I'm Lukas, a PhD student at the University of British Columbia with a deep-seated curiosity for a myriad of subjects. My academic and professional pursuits span remote sensing, computer vision, game development, GIS, and integrating IoT into environmental sciences. When not engaged in my studies or coding, you can find me backpacking through nature, exploring the vast world of music, or on a quest for new knowledge.
 
 # Academic Focus
 
